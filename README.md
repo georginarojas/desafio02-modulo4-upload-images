@@ -8,7 +8,6 @@
 
 </p>
 
-![Demo WorldTrip]()
 
 ## Description
 UpFi is a page where the user can upload and view images. The objective of this project is to reinforce the learned and add new features usgin React Query, Chakra UI and React Hook Form.
