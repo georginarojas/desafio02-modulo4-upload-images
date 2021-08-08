@@ -85,6 +85,7 @@ export default function Home(): JSX.Element {
               loadingText="Carregando..."
               spinnerPlacement="start"
               onClick={() => fetchNextPage()}
+              marginTop='40px'
             >
               Carregar mais
             </Button>
